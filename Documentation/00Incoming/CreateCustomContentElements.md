@@ -2,8 +2,8 @@
 
 <!--#TYPO3v13 #Beginner #Backend #ContentElements #Customization @username -->
 
-TYPO3 ships with a set of default content elements like text, images, and lists. For many projects these are not enough, and you need content elements tailored to your specific design or functionality.
-Custom content elements let you define your own fields, templates, and rendering logic. Once registered, they appear alongside the default elements in the content element wizard and can be used by editors like any other element.
+TYPO3 ships with a set of default content elements like text, images, and lists, but many projects need content elements tailored to a specific design or functionality.
+Custom content elements let you define your own fields, templates, and rendering logic that editors can use like any other element.
 
 ## Learning objective
 

@@ -2,7 +2,7 @@
 
 <!--#TYPO3v13 #Beginner #Backend #Filelist @username -->
 
-TYPO3 manages all media assets — such as images, documents, and videos — centrally through the Filelist module.
+TYPO3 manages all media assets, such as images, documents, and videos, centrally through the Filelist module.
 Every file you upload is stored in a file storage and can be referenced from multiple pages and content elements without duplicating it.
 Understanding how to upload, organise, and reference files in the Filelist module is essential for keeping your project's media tidy and maintainable.
 
