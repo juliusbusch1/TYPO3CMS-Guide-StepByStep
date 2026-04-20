@@ -52,7 +52,7 @@ You created a new TYPO3 page by dragging a page icon from the top of the page tr
 Now that you’ve added a page, you might like to:
 
 * [Enable a page](EnablingAndDisablingAPageInThePagetree.md) so it becomes visible in the frontend
-* [Create a page with the context menu](CreateAPageWithTheContextMenu) for more precise placement
+* [Create a page with the context menu](CreateAPageWithTheContextMenu.md) for more precise placement
 * [Add content to your page](https://docs.typo3.org/permalink/t3editors:content-creating)
 
 ## Resources

@@ -77,9 +77,9 @@ You successfully changed your TYPO3 site's default content language by editing t
 
 Now that you've changed the default language, you might like to:
 
-* [Configure additional content languages](../../../20BuildingWebsites/20MultilingualWebsites/10ConfigureContentLanguages/Index.md) to create a multilingual website
-* [Translate existing content](../../../20BuildingWebsites/20MultilingualWebsites/20TranslateContent/Index.md) into your new default language
-* [Manage language fallbacks](../../../20BuildingWebsites/20MultilingualWebsites/30ManageLanguageFallbacks/Index.md) for handling missing translations
+* [Configure additional content languages](ConfigureContentlanguages.md) to create a multilingual website
+* [Translate existing content](TranslateContent.md) into your new default language
+* [Manage language fallbacks](ManageLanguageFallbacks.md) for handling missing translations
 
 ## Resources
 

@@ -105,7 +105,7 @@ You have successfully created the skeletal structure of a TYPO3 Site Package. TY
 Now that the basic structure is ready, you might like to:
 
 * [Register and Install the Site Package via Composer](RegisterAndInstallSitePackage.md)
-* [Activating the Site Set in the Site Configuration](ActivatingSiteSet.md)
+* [Activating the Site Set in the Site Configuration](ActivatingSiteset.md)
 
 ## Resources
 

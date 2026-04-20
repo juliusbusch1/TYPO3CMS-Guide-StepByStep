@@ -50,7 +50,7 @@ Congratulations! You have now logged in to the TYPO3 backend.
 Now that you have logged into TYPO3's backend, you might like to:
 
 * [Create a Page With Drag and Drop](CreateAPageWithDragAndDrop.md)
-* [Create Custom Content Elements](CreateCustomContentElements.md)
+* [Add Content Elements to a Page](AddContentElements.md)
 * [Modify the Page Properties](ModifyingThePageProperties.md)
 
 ## Resources

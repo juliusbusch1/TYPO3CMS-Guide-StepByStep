@@ -25,7 +25,7 @@ They will be displayed as two vertical columns in the **Page → Columns** view 
 
 * [Using the Page Tree](https://docs.typo3.org/permalink/t3start:page-tree)
 * [Modifying the page properties](ModifyingThePageProperties.md)
-* [Adding Page TSconfig to a Site Package](AddingPageTSConfigToASitePackage.md).
+* [Adding Page TSconfig to a Site Package](AddPageTsconfigToASitePackage.md).
 * Basic understanding of `colPos` property for content columns
 
 ## Define the Backend Layout in Page TSconfig
